@@ -1,0 +1,11 @@
+.contenedorLogin{
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;  
+}
+
+.btnL{
+    width: 100%;
+    background-color: rgb(40, 190, 85);
+}
